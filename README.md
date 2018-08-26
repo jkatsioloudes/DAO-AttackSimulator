@@ -26,7 +26,7 @@ The profile of this attacker is that is silently and progressively trying to est
 
 #### Simulation Output ####
 
-`
+```
 -- DASH CORRUPTED GOVERNANCE ATTACK SIMULATOR --
 -- Please provide customised information for any parameter OR -- Press enter to proceed with the real time values --
 
@@ -94,7 +94,7 @@ Furthermore: 08/2029 (74.41%), 03/2043 (90.23%), 05/2073 (98.86%), 04/2150 (100%
 SUGGESTED APPROACH:
 A stealthy attacker can slowly increase his/her army assuming a percentage gain of 50% mined DASH => MN per year. Towards this DASH required, the attacker might use Proof-of-Service rewards able to purchase 25 new MN per existing MN per year (assuming 7.14% Return
 on Investment). An increase of 1K MN could take 4-5 years to be achieved and does not guarantee success! Notice that in the long term, more years would be needed to acquire further 1K MN!
-`
+```
 
 ## Suddent Counterattack
 
@@ -102,7 +102,7 @@ The profile of this attacker resembles a government or nation. The main characte
 
 #### Simulation Output ####
 
-`
+```
 -- DASH CORRUPTED GOVERNANCE ATTACK SIMULATOR --
 -- Please provide customised information for any parameter OR -- Press enter to proceed with the real time values --
 
@@ -145,7 +145,7 @@ Assuming that a controversial proposal will drastically increase this,
 we will consider a higher percentage of 60% voters, this means: 2896 MN
 Which means that we would need this amount of MN to achieve net 10%: 3186 MN
 Maximum possible amount of MN that we can acquire due to coins in circulation is: 3269 MN
-`
+```
 
 # Essential Concepts
 
