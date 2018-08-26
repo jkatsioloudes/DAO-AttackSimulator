@@ -24,7 +24,7 @@ The simulator is then able to suggest further steps forward with goal to maximis
 
 The profile of this attacker is that is silently and progressively trying to establish a higher amount of masternodes. The initial goal is to stay undetected by avoiding a sudden coin price increase but more importantly a suspicious increased number of masternodes against all historical data by maintaining the average number of newly registered masternodes at any given time. Let us firstly buy 500 masternodes that is a very high number as well as it is a high fraction (around 12.5%) of the current network but purchasing this number is currently not enough to harm. Notice the suggestions at the end are customised on how to remain stealthy as the outcome of both attacks is the same because of the number of coins in circulation.
 
-#### Simulation Output ####
+### Simulation Output
 
 ```
 -- DASH CORRUPTED GOVERNANCE ATTACK SIMULATOR --
@@ -100,7 +100,7 @@ on Investment). An increase of 1K MN could take 4-5 years to be achieved and doe
 
 The profile of this attacker resembles a government or nation. The main characteristics of this malicious actor include greediness and capability to spend unlimited money any time to meet the end goal or ambition. To achieve a successful outcome, the adversary needs to acquire 5311 masternodes (in the simulator we do so by pressing *enter* when asked initially) because this is going to be 10% more than the current number of masternodes which we assumed is honest. But we see that this number is not achievable since the remaining coins in circulation are inadequate.
 
-#### Simulation Output ####
+### Simulation Output
 
 ```
 -- DASH CORRUPTED GOVERNANCE ATTACK SIMULATOR --
