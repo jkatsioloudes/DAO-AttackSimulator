@@ -7,27 +7,22 @@ import math
 
 """
 MOTIVATION:
-    Independent and Individual White Hat Hacking (or better, Security) Research conducted in my free time 
-    during end of August 2018 stemming from my genuine interest in Cryptocurrencies.  
-    
-    I see these coins as the new way of making payments, a step forward towards a more secure and
+    I am pretty romantic when it comes to cryptocurrencies. I see these coins as the new way of making payments, a step forward towards a more secure and
     automated world to replace cash or plastic money with a  tamper-resistant solution because of 
     cryptography.
     
     Therefore, this code is created to assess how secure is a Decentralised Governance model
     supported from one of these coins, named 'Dash'. 
 
-
 CAPABILITIES:
     Using this simulator, an attacker is able to control the following parameters to make
     an attacking scenario against Dash Decentralised Governance fully customised, or proceed
-     with the real time values of the following parameters:
+    with the real time values of the following parameters:
         1) Dash Price($)
         2) Price Increase Factor
         3) Number of Active Masternodes
         4) Coins in Circulation
         5) How many masternodes to control after purchasing them.
-
 
 IMPORTANT:
     Here, what we are trying to achieve is a Proof of Concept regarding the attack
@@ -39,7 +34,6 @@ IMPORTANT:
     the reasons on why a coin's price might fall, including government rumours about it.
 """
 
-
 # Outputs the values we proceed during the simulation.
 def report(price, exp_incr, mn, coins):
     print()
@@ -48,7 +42,6 @@ def report(price, exp_incr, mn, coins):
     print("Price Increase Factor (in Decimal):", exp_incr)
     print("Number of Active Masternodes:", mn)
     print("Coins in circulation:", coins)
-
 
 """
 Proceeds to the purchase of X Masternodes and then analyses the newly created situation,
@@ -64,7 +57,6 @@ Example:
     X amount of Masternodes and we provide further options on how to proceed that are able
     to help both attacking and defending parties for one step forward, always ethically.
 """
-
 
 def buy_X_MN(num, coin_price, exp_incr, coins, mn):
     collateral_req = 1000
@@ -191,7 +183,6 @@ years would be needed to acquire further 1K MN!
 """)
 
     return cost, new_price
-
 
 # This is the main method of the program, responsible for IO using the above methods.
 def main():
