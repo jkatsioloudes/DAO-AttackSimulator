@@ -114,7 +114,8 @@ How many masternodes you want to control?: (press enter for net 10% malicious MN
 
 -- VALUES PROCEEDING WITH --
 Price: $296.624
-Price Increase Factor (in Decimal): 1.1195484842590947e-05 Number of Active Masternodes: 4827
+Price Increase Factor (in Decimal): 1.1195484842590947e-05 
+Number of Active Masternodes: 4827
 Coins in circulation: 8096297.0
 
 -- PROCEEDING TO THE PURCHASE OF 5310 MN --
