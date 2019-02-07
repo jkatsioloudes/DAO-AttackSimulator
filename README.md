@@ -96,7 +96,7 @@ A stealthy attacker can slowly increase his/her army assuming a percentage gain 
 on Investment). An increase of 1K MN could take 4-5 years to be achieved and does not guarantee success! Notice that in the long term, more years would be needed to acquire further 1K MN!
 ```
 
-## Suddent Counterattack
+## Sudden Counterattack
 
 The profile of this attacker resembles a government or nation. The main characteristics of this malicious actor include greediness and capability to spend unlimited money any time to meet the end goal or ambition. To achieve a successful outcome, the adversary needs to acquire 5311 masternodes (in the simulator we do so by pressing *enter* when asked initially) because this is going to be 10% more than the current number of masternodes which we assumed is honest. But we see that this number is not achievable since the remaining coins in circulation are inadequate.
 
